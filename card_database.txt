@@ -1,0 +1,8 @@
+skeleton,melee,1
+dwarf,melee,3
+elf,ranged,2
+catapult,siege,4
+knight,melee,3
+thief,melee,1
+trebuchet,siege,5
+battering ram,siege,4
