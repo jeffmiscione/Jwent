@@ -1,47 +1,33 @@
-knight
-knight
-knight
-knight
-knight
-thief
-thief
-thief
-thief
-thief
+ballista
+catapult
+dethmold
+dun banner medic
+kaedweni siege expert
+keira metz
+prince stennis
+redanian foor soldier
+sabrina glevissig
+sheldon skaggs
+siege tower
+siegfried of denesle
+sigismund dijkstra
+sile de tansarville
+thaler
 trebuchet
-trebuchet
-trebuchet
-trebuchet
-trebuchet
-battering ram
-battering ram
-battering ram
-battering ram
-battering ram
+ves
+yarpen zigrin
+barclay els
+ciaran aep easnillien
+dwarven skirmisher
+havekar healer
+havekar smuggler
+milva
+schirru
+vrihedd brigade veteran
 commander horn
-commander horn
-commander horn
-commander horn
-commander horn
-torrential rain
-torrential rain
-torrential rain
-biting frost
-biting frost
 biting frost
 impenetrable fog
-impenetrable fog
-impenetrable fog
-clear weather
-clear weather
-clear weather
+torrential rain
 clear weather
 scorch
-scorch
-scorch
-scorch
-decoy
-decoy
-decoy
-decoy
 decoy
