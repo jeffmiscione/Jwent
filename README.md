@@ -1,7 +1,7 @@
 # Jwent
 Witcher 3 card game made in Python
 
-# NEEDED UPDATES
+# Needed Updates
  - graphics!!!!
  - add heroes
  - add commander abilities
