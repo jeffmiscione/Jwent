@@ -1,15 +1,34 @@
-skeleton,melee,1 # does stuff
-dwarf,melee,3 # does stuff
-elf,ranged,2 # does stuff
-catapult,siege,4 # does stuff
-knight,melee,3 # does stuff
-thief,melee,1 # does stuff
-trebuchet,siege,5 # does stuff
-battering ram,siege,4 # does stuff
-commander horn,special,0 # does stuff
-biting frost,special,0 # sets all melee unit strengths to 1
-impenetrable fog,special,0 # sets all ranged unit strengths to 1
-torrential rain,special,0 # sets all siege unit strengths to 1
-clear weather,special,0 # removes all weather effects
-scorch,special,0 # destroys all cards that share the highest strength
-decoy,special,0 # return 1 card on your side of the field to your hand
+skeleton,melee,tight bond,1# tight bond with other skeletons
+ballista,siege,,6# does stuff
+catapult,siege,,8# does stuff
+dethmold,ranged,,6# does stuff
+dun banner medic,siege,revive,5# does stuff
+kaedweni siege expert,siege,morale boost,1# morale booster
+keira metz,ranged,,5#
+prince stennis,melee,spy,5#
+redanian foor soldier,melee,,1#
+sabrina glevissig,ranged,,4#
+sheldon skaggs,ranged,,4#
+siege tower,siege,,6#
+siegfried of denesle,melee,,5#
+sigismund dijkstra,melee,spy,4#
+sile de tansarville,ranged,,5#
+thaler,siege,spy,1#
+trebuchet,siege,,6#
+ves,melee,,5#
+yarpen zigrin,melee,,2#
+barclay els,melee,agility,6#
+ciaran aep easnillien,melee,agility,3#
+dwarven skirmisher,ranged,muster,3#
+havekar healer,ranged,revive,0#
+havekar smuggler,melee,muster,5#
+milva,ranged,muster,10#
+schirru,siege,scorch,8#
+vrihedd brigade veteran,melee,agility,5#
+commander horn,special,,0# does stuff
+biting frost,special,,0# sets all melee unit strengths to 1
+impenetrable fog,special,,0# sets all ranged unit strengths to 1
+torrential rain,special,,0# sets all siege unit strengths to 1
+clear weather,special,,0# removes all weather effects
+scorch,special,,0# destroys all cards that share the highest strength
+decoy,special,,0# return 1 card on your side of the field to your hand
