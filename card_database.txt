@@ -1,0 +1,58 @@
+biting frost,special,,0# sets all melee unit strengths to 1
+clear weather,special,,0# removes all weather effects
+commander horn,special,,0# neutral
+dandelion,melee,morale boost,2# neutral
+decoy,special,,0# neutral return 1 card on your side of the field to your hand
+emiel regis rohellec terzieff,melee,,5# neutral
+impenetrable fog,special,,0# neutral sets all ranged unit strengths to 1
+scorch,special,,0# neutral destroys all cards that share the highest strength
+torrential rain,special,,0# neutral sets all siege unit strengths to 1
+vesemir,melee,,6# neutral
+villentretenmerth,melee,scorch,7# neutral
+zoltan chivay,melee,,5# neutral
+ballista,siege,,6# northern realms does stuff
+blue stripes commando,melee,tight bond,4# northern realms
+catapult,siege,tight bond,8# northern realms
+crinfrid reavers dragon hunter,ranged,tight bond,5# northern realms
+dethmold,ranged,,6# northern realms
+dun banner medic,siege,revive,5# northern realms
+kaedweni siege expert,siege,morale boost,1# northern realms
+keira metz,ranged,,5# northern realms
+poor fucking infantry,melee,tight bond,1# northern realms
+prince stennis,melee,spy,5# northern realms
+redanian foor soldier,melee,,1# northern realms
+sabrina glevissig,ranged,,4# northern realms
+sheldon skaggs,ranged,,4# northern realms
+siege tower,siege,,6# northern realms
+siegfried of denesle,melee,,5# northern realms
+sigismund dijkstra,melee,spy,4# northern realms
+sile de tansarville,ranged,,5# northern realms
+thaler,siege,spy,1# northern realms
+trebuchet,siege,,6# northern realms
+ves,melee,,5# northern realms
+yarpen zigrin,melee,,2# northern realms
+albrich,ranged,,2# nilfgaard
+assire var anahid,ranged,,6# nilfgaard
+black infantry archer,ranged,,10# nilfgaard
+cahir mawr dyffryn aep ceallach,melee,,6# nilfgaard
+cynthia,ranged,,4# nilfgaard
+etolian auxiliary archers,ranged,revive,1# nilfgaard
+fringilla vigo,ranged,,6# nilfgaard
+heavy zerrikanian fire scorpion,siege,,10# nilfgaard
+impera brigade guard,melee,tight bond,3# nilfgaard
+morteisen,melee,,3# nilfgaard
+nausicaa cavalry rider,melee,tight bond,2# nilfgaard
+puttkammer,ranged,,3# nilfgaard
+rainfarn,melee,,4# nilfgaard
+renuald aep matsen,ranged,,5# nilfgaard
+rotten mangonel,siege,,3# nilfgaard
+shilard fitz-oesterlen,melee,spy,7# nilfgaard
+siege engineer,siege,,6# nilfgaard
+siege technician,siege,revive,0# nilfgaard
+stefan skellen,melee,spy,9# nilfgaard
+sweers,ranged,,2# nilfgaard
+vanhemar,ranged,,4# nilfgaard
+vattier de rideaux,melee,spy,4# nilfgaard
+vreemde,melee,,2# nilfgaard
+young emissary,melee,tight bond,5# nilfgaard
+zerrikanian fire scorpion,siege,,5# nilfgaard
