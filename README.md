@@ -2,13 +2,11 @@
 Witcher 3 card game made in Python
 
 # Current executable download
-Version 1.0 https://drive.google.com/open?id=0B6mPQ-FAAEfdaW9rWVA3RGtFMTQ
+Version 1.1 https://drive.google.com/open?id=0B6mPQ-FAAEfdVFRnNThOQUJTZWs
 
 # Needed Updates
  - pop-up window that shows larger version of the card
  - clickable cards
- - add more card slots
- - set the card slots to disabled when not displaying anything (see p1 draw hand)
  - smaller cards (can't fit on screen at the moment)
  - add heroes
  - add commander abilities
