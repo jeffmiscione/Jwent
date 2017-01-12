@@ -4,8 +4,7 @@ Witcher 3 card game made in Python
 # Current executable download
 Version 1.1 https://drive.google.com/open?id=0B6mPQ-FAAEfdVFRnNThOQUJTZWs
 
-# Information below is for editors (if you just want to play the game use the link above)
-# =======================================================================================
+# Information below is for editors
 # Needed Updates
  - pop-up window that shows larger version of the card
  - clickable cards
