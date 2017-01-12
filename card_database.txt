@@ -20,7 +20,7 @@ kaedweni siege expert,siege,morale boost,1# northern realms
 keira metz,ranged,,5# northern realms
 poor fucking infantry,melee,tight bond,1# northern realms
 prince stennis,melee,spy,5# northern realms
-redanian foor soldier,melee,,1# northern realms
+redanian foot soldier,melee,,1# northern realms
 sabrina glevissig,ranged,,4# northern realms
 sheldon skaggs,ranged,,4# northern realms
 siege tower,siege,,6# northern realms
@@ -56,3 +56,47 @@ vattier de rideaux,melee,spy,4# nilfgaard
 vreemde,melee,,2# nilfgaard
 young emissary,melee,tight bond,5# nilfgaard
 zerrikanian fire scorpion,siege,,5# nilfgaard
+arachas,melee,muster,4# monster
+arachas behemoth,siege,muster,6# monster
+botchling,melee,,4# monster
+celaeno harpy,melee,agility,2# monster
+cockatrice,ranged,,2# monster
+crone,melee,muster,6# monster
+earth elemental,siege,,6# monster
+endrega,ranged,,2# monster
+fiend,melee,,6# monster
+fire elemental,siege,,6# monster
+foglet,melee,,2# monster
+forktail,melee,,5# monster
+frightener,melee,,5# monster
+gargoyle,ranged,,2# monster
+ghoul,melee,muster,1# monster
+grave hag,ranged,,5# monster
+griffin,melee,,5# monster
+harpy,melee,agility,2# monster
+ice giant,siege,,5# monster
+nekker,melee,muster,2# monster
+plague maiden,melee,,5# monster
+vampire,melee,muster,4# monster
+werewolf,melee,,5# monster
+wyvern,ranged,,2# monster
+toad,ranged,scorch,7# monster
+barclay els,melee,agility,6# scoia'tael
+ciaran aep easnillien,melee,agility,3# scoia'tael
+dennis cranmer,melee,,6# scoia'tael
+dol blathanna archer,ranged,,4# scoia'tael
+dol blathanna scout,melee,agility,6# scoia'tael
+dwarven skirmisher,melee,muster,3# scoia'tael
+elven skirmisher,ranged,muster,2# scoia'tael
+filavandrel aen fidhail,melee,agility,6# scoia'tael
+havekar healer,ranged,revive,0# scoia'tael
+havekar smuggler,melee,muster,5# scoia'tael
+ida emean aep sivney,ranged,,6# scoia'tael
+mahakaman defender,melee,,5# scoia'tael
+milva,ranged,morale boost,10# scoia'tael
+riordain,ranged,,1# scoia'tael
+schirru,siege,scorch,8# scoia'tael
+toruviel,ranged,,2# scoia'tael
+vrihedd brigade recruit,ranged,,4# scoia'tael
+vrihedd brigade veteran,melee,agility,5# scoia'tael
+yaevinn,melee,agility,6# scoia'tael
