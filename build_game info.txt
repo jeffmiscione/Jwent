@@ -1,8 +1,0 @@
-run build_gui.bat BEFORE running build_game.bat if changes were made to the gui
-
-add the imageformats folder to the dist folder
-add the images folder to the dist folder
-
-add the card_database file to the dist folder
-
-add any .deck files to the dist folder
