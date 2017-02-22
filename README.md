@@ -1,14 +1,11 @@
 # Jwent
 Witcher 3 card game made in Python
 
-# Current executable download
-Version 1.1 https://drive.google.com/open?id=0B6mPQ-FAAEfdVFRnNThOQUJTZWs
+# Current executable download (Final release...I have other stuff to do)
+Version 2.0 https://drive.google.com/open?id=0B6mPQ-FAAEfdUXMxY0pTZlZzNTA
 
 # Information below is for editors
 # Needed Updates
- - pop-up window that shows larger version of the card
- - clickable cards
- - smaller cards (can't fit on screen at the moment)
  - add heroes
  - add commander abilities
  - add faction abilities
